@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Keep-Note-Clone/static/css/main.3d1b3d6a.css",
+    "main.js": "/Keep-Note-Clone/static/js/main.bc105892.js",
+    "index.html": "/Keep-Note-Clone/index.html",
+    "main.3d1b3d6a.css.map": "/Keep-Note-Clone/static/css/main.3d1b3d6a.css.map",
+    "main.bc105892.js.map": "/Keep-Note-Clone/static/js/main.bc105892.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d1b3d6a.css",
+    "static/js/main.bc105892.js"
+  ]
+}
